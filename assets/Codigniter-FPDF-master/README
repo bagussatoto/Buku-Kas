@@ -1,0 +1,27 @@
+======================================
+FPDF
+
+PDF generation with the FPDF library
+
+by Jd Fiscus
+======================================
+
+Hey everybody,
+
+This is a Codeigniter library where generate a PDF 
+using the FPDF 1.7 library.
+
+DOCUMENTATION:
+http://www.fpdf.org/ > Manual
+
+INSTALLATION:
+Just copy the files from this package to the corresponding folder in your 
+application folder.  For example, copy fpdf/libraries/fpdf.php to 
+system/application/libraries/fpdf.php. 
+
+
+
+Thanks,
+-Jd Fiscus
+ jdfiscus@gmail.com
+ @iamfiscus
