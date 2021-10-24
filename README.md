@@ -27,7 +27,7 @@ Pada langkah ini akan dijelaskan instalasi sistem menggunakan XAMPP:
 3. Ekstrak file zip yang sudah diunduh tadi ke dalam folder yang baru dibuat.
 4. Buat database baru, bisa gunakan **PHPMyAdmin** yang sudah disediakan XAMPP.
 5. Impor database kedalam database yang baru saja dibuat, file impor berada di **/code_ignit**
-6. Ubah pengaturan koneksi basis data pada file **connection.php**, sesuaikan dengan pengaturan XAMPP Anda (pengaturan default yang dibuat oleh Nusabot Absensi adalah pengaturan default untuk XAMPP, Anda hanya perlu mengubah `$databaseName`menjadi nama basis data yang sudah Anda buat).
+6. Ubah pengaturan koneksi basis data pada file **connection.php**, sesuaikan dengan pengaturan XAMPP Anda (pengaturan default yang dibuatoleh Bagus Satoto adalah pengaturan default untuk XAMPP, Anda hanya perlu mengubah `$databaseName`menjadi nama basis data yang sudah Anda buat).
 7. Ubah juga pengaturan koneksi basis data untuk melakukan absensi dari mesin pada file **code_ignit**. 
  
 ## Request Fitur Baru dan Pelaporan Bug
