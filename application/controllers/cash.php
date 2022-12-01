@@ -226,7 +226,7 @@ class Cash extends CI_controller{
 		$this->upload->do_upload('agendaImage');
 		$data_upload_files = $this->upload->data();
 		
-		$image = $data_upload_files[file_name]; 
+		$image = $data_upload_files['file_name']; 
 		
 		$data=array(
 			'agendaNama'=>$_POST['agendaNama'],
